@@ -20,9 +20,13 @@ Pneumonia is a serious lung infection that can be life-threatening if not diagno
 - **Classes**: 
   - Normal
   - Pneumonia
-## 📷 Training Screenshot
 
+## 📷1. Training Screenshot
 ![Training](https://github.com/rohit9232/Pneumonia-Detection-AzureAI/blob/main/model_training.png.png?raw=true)   
+
+## 📷2. Quick Test Results
+![Quick Test](https://github.com/rohit9232/Pneumonia-Detection-AzureAI/blob/main/quick_test_result.png.png?raw=true)
+
 
 ## 📁 Dataset
 Dataset used: [Chest X-ray Images (Pneumonia)](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)  

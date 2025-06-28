@@ -43,7 +43,7 @@ Total images used: ~139
 ## ✅ Model Performance
 After training the model using Azure Custom Vision, it achieved high performance scores in classification.
 
-![Model Performance Screenshot]([images/model_training.png](https://github.com/rohit9232/Pneumonia-Detection-AzureAI/blob/main/model_training.png.png?raw=true)
+![Model Performance Screenshot](https://github.com/rohit9232/Pneumonia-Detection-AzureAI/blob/main/model_training.png.png?raw=true)
 
 ## ⚙️ Quick Test Example
 A chest X-ray image was tested using the trained model. The result showed high confidence prediction.

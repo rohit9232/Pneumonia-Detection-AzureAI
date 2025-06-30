@@ -10,7 +10,6 @@ Pneumonia is a serious lung infection that can be life-threatening if not diagno
 ## 🛠️ Tools & Technologies
 - **Azure Custom Vision**
 - **Microsoft Azure for Students**
-- **Python (optional for API use)**
 - **GitHub**
 - **PowerPoint for report**
 

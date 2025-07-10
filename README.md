@@ -35,7 +35,7 @@ Pneumonia is a serious lung infection that can be life-threatening if not diagno
 
 ## 📁 Dataset
 Dataset used: [Chest X-ray Images (Pneumonia)](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)  
-Total images used: ~139 
+Total images used: ~5007 
 (50+ images for each class uploaded to Azure Custom Vision)
 
 ## ✅ Model Performance

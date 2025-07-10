@@ -47,7 +47,7 @@ After training the model using Azure Custom Vision, it achieved high performance
 ## ⚙️ Quick Test Example
 A chest X-ray image was tested using the trained model. The result showed high confidence prediction.
 
-![Quick Test Result_Normal]()
+![Quick Test Result_Normal](https://github.com/rohit9232/Pneumonia-Detection-AzureAI/blob/main/quick_test_result_1.png?raw=true)
 
 ![Quick Test Result_Pneumonia](https://github.com/rohit9232/Pneumonia-Detection-AzureAI/blob/main/quick_test_result.png.png?raw=true)
 

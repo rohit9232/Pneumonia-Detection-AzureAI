@@ -22,7 +22,7 @@ Pneumonia is a serious lung infection that can be life-threatening if not diagno
 
 
 ## 📷 1. Image Upload to Custom Vision
-![Upload](https://github.com/rohit9232/Pneumonia-Detection-AzureAI/blob/main/image-upload.png.png?raw=true)
+![Upload](https://github.com/rohit9232/Pneumonia-Detection-AzureAI/blob/main/image_upload.png?raw=true)
 
 ## 📷2. Training Page
 ![Training](https://github.com/rohit9232/Pneumonia-Detection-AzureAI/blob/main/training_screen.png.png?raw=true)

@@ -31,8 +31,7 @@ Pneumonia is a serious lung infection that can be life-threatening if not diagno
 ![Training](https://github.com/rohit9232/Pneumonia-Detection-AzureAI/blob/main/model_training.png?raw=true)   
 
 ## 📷4. Quick Test Results
-![Quick Test](https://github.com/rohit9232/Pneumonia-Detection-AzureAI/blob/main/quick_test_result.png.png?raw=true)
-
+![Quick Test](https://github.com/rohit9232/Pneumonia-Detection-AzureAI/blob/main/quick_test_result_2.png?raw=true)
 
 ## 📁 Dataset
 Dataset used: [Chest X-ray Images (Pneumonia)](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)  
@@ -49,7 +48,7 @@ A chest X-ray image was tested using the trained model. The result showed high c
 
 ![Quick Test Result_Normal](https://github.com/rohit9232/Pneumonia-Detection-AzureAI/blob/main/quick_test_result_1.png?raw=true)
 
-![Quick Test Result_Pneumonia](https://github.com/rohit9232/Pneumonia-Detection-AzureAI/blob/main/quick_test_result.png.png?raw=true)
+![Quick Test Result_Pneumonia](https://github.com/rohit9232/Pneumonia-Detection-AzureAI/blob/main/quick_test_result_2.png?raw=true)
 
 ## 📁 File Structure
 - `README.md` – Project overview
